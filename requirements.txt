@@ -1,5 +1,5 @@
 keras
-tensorflow==1.15.2
+tensorflow==2.5.0
 imageai
 opencv-python
 
